@@ -12,8 +12,6 @@
 ✉️ &nbsp;Puedes contactarme en [joneshys@gmail.com](mailto:joneshys@gmail.com)\
 📄 &nbsp;Revisa mi [portafolio](https://joneshys.github.io) para más detalles sobre mis proyectos.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ---
 
 ### 🛠 &nbsp;Stack Tecnológico
