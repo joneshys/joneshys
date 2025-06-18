@@ -18,21 +18,9 @@
 
 ### 🛠 &nbsp;Stack Tecnológico
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)&nbsp;
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-05122A?style=flat&logo=gitlab)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)\
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
-![Vault](https://img.shields.io/badge/-Vault-05122A?style=flat&logo=vault)&nbsp;
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,helm,gitlab,githubactions,github,python,bash,fastapi,flask,mongodb,postgresql,prometheus,grafana,vault,cloudflare,linux" />
+</p>
 
 ---
 
