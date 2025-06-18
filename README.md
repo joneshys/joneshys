@@ -35,19 +35,11 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 
 ---
-### 📊 &nbsp;Lenguajes más usados
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneshys&layout=compact&theme=algolia" />
-</p>
-
----
 
 ### 📈 &nbsp;Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joneshys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joneshys&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
