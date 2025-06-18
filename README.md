@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joneshys/joneshys/main/asset/banner-stack.png" alt="Joneshys Stack Banner" width="900"/>
+<img src="https://raw.githubusercontent.com/joneshys/joneshys/main/assets/banner-stack.png" alt="Joneshys Stack Banner" width="900"/>
 
 
 
