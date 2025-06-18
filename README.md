@@ -10,7 +10,7 @@
 🧠 &nbsp;Interesado en ciberseguridad, monitoreo, y optimización de pipelines.\
 📚 &nbsp;Comparto conocimiento sobre buenas prácticas DevOps, Vault, Cloudflare Tunnel y otras tecnologías.\
 ✉️ &nbsp;Puedes contactarme en [joneshys@gmail.com](mailto:joneshys@gmail.com)\
-📄 &nbsp;Revisa mi [linkedin]([https://joneshys.github.io](https://www.linkedin.com/in/jose-miguel-benitez-rodriguez-41553aa6/) para más detalles sobre mis proyectos y experiencia.
+📄 &nbsp;Revisa mi [linkedin]([linkedin](https://www.linkedin.com/in/jose-miguel-benitez-rodriguez-41553aa6/)) para más detalles sobre mis proyectos y experiencia.
 
 ---
 
