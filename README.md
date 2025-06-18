@@ -17,10 +17,7 @@
 ---
 
 ### 🛠 &nbsp;Stack Tecnológico
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,helm,gitlab,githubactions,github,python,bash,fastapi,flask,mongodb,postgresql,prometheus,grafana,vault,cloudflare,linux" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,helm,gitlab,githubactions,github,python,bash,fastapi,flask,mongodb,postgresql,prometheus,grafana,vault,cloudflare,linux" /></p>
 
 ---
 
