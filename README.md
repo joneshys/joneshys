@@ -38,4 +38,4 @@
 
 ---
 
-🔧 *Last Updated: {{ replace_with_date }}*
+🔧 *Last Updated: 2024-03-19*
