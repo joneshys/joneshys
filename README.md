@@ -1,6 +1,4 @@
-![Joneshys Stack Banner](https://raw.githubusercontent.com/joneshys/joneshys/main/assets/banner-stack.png)
-
-
+![Joneshys Stack Banner](https://raw.githubusercontent.com/joneshys/joneshys/main/asset/banner-stack.png)
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
 <h2>¡Hola! Soy Joneshys</h2>
