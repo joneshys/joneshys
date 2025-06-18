@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/joneshys/joneshys/main/assets/banner-stack.png" alt="Joneshys Stack Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/joneshys/joneshys/main/assets/banner-stack.png" alt="Joneshys Stack Banner" style="max-width: 100%; width: 80%; height: auto; min-width: 600px; display: block; margin: 0 auto;"/>
 
 <h2>¡Hola! Soy Joneshys</h2>
 
