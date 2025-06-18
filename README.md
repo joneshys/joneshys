@@ -35,6 +35,13 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
 
 ---
+### 📊 &nbsp;Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joneshys&layout=compact&theme=algolia" />
+</p>
+
+---
 
 ### 📈 &nbsp;Estadísticas de GitHub
 
